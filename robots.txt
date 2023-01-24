@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /bunnycdn_errors/
+Disallow: /news/1-year-of-chunk-base
+Disallow: /news/17-update-status
+Disallow: /news/welcome-to-chunk-base
+Disallow: /contact
+Disallow: /legal-notice
+Disallow: /privacy-policy
+Disallow: /terms-of-use
